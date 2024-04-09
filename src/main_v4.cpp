@@ -3,7 +3,7 @@
 #include "BlinkyClass.h"
 
 Blinky blinky1;
-
+//this is setup acction
 void setup()
 {
     blinky1.init(2,500);
